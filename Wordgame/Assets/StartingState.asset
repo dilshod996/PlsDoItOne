@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d030dee2dec807a45accaedbdcd4f1d3, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  Storytext: "\tIt is easy to do English tasks with us. You can get result after
+    all tasks have been done. Only 10 questions waiting you to find answers appropriatly.
+    If you woul like to start it just press 1.However we have 2 button to learn first
+    topics!!! You can do it. Good luck to your language journey!\n\n1. Start the
+    test.\n2.You may know about topics."
+  nextState: []
