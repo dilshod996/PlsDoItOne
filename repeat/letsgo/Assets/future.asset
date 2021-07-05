@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e933c985834dd9f458119730df3a3fbf, type: 3}
+  m_Name: future
+  m_EditorClassIdentifier: 
+  storyText: '1.I..... go to  school tomorrow.
+
+    a) shall
+
+    b) do
+
+    c) am'
+  nextStates:
+  - {fileID: 11400000, guid: d9ee07a236346ae48a0e3a6346f393ac, type: 2}
+  - {fileID: 11400000, guid: 636c9b07038090744a35f00412f09250, type: 2}
+  - {fileID: 11400000, guid: 0e72b784b08598c48ac2bf9b72add9ed, type: 2}

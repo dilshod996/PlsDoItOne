@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2394bc778f89a1048913119637b7313b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Daft Font
+  fontNames:
+  - Daft Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c5d26d9ec8ceda047890060a48933686, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e933c985834dd9f458119730df3a3fbf, type: 3}
+  m_Name: present
+  m_EditorClassIdentifier: 
+  storyText: '1.We always .... food at 7 pm every day.
+
+    a)eat
+
+    b)eaten
+
+    c)eats'
+  nextStates:
+  - {fileID: 11400000, guid: 65c88dbfe6c96bf468e46ff88af4899b, type: 2}
+  - {fileID: 11400000, guid: 342e8c6f43cad57499e05782c8b34f64, type: 2}
+  - {fileID: 11400000, guid: 342e8c6f43cad57499e05782c8b34f64, type: 2}
+  - {fileID: 11400000, guid: 6158fbf0d73c347488a329ce4dcb1dde, type: 2}
